@@ -6,8 +6,6 @@ repo: uptime # Your GitHub repository name
 sites:
   - name: bot
     url: https://danglehoang.glitch.me
-  - name: TCP ping
-    url: 1.1.1.1
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
